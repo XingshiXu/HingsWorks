@@ -54,7 +54,7 @@ http://dx.doi.org/10.1016/j.compag.2023.107765
 Computers and Electronics in Agriculture
 
 #### Endosperm Crack Detection Method for Seed Dipping Maize Based on YOLO v5 OBB and CT Technology
-https://doi.org/10. 6041/j. issn.1000-1298.2023.03.040
+https://doi.org/10.6041/j. issn.1000-1298.2023.03.040
 Transactions of the Chinese Society for Agricultural Machinery
 
 
