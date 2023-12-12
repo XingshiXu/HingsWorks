@@ -1,5 +1,7 @@
 # a repository for my work
-Xingshi Xu (Hings Hsu) ORCID：https://orcid.org/my-orcid?orcid=0000-0002-6687-6975
+Xingshi Xu (Hings Hsu) 
+ORCID：https://orcid.org/my-orcid?orcid=0000-0002-6687-6975
+Email：xingshixu@nwafu.edu.cn
 ----------
 ## Works
 ### About Cattle
