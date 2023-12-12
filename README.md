@@ -1,9 +1,11 @@
 # a repository for my work
 Xingshi Xu (Hings Hsu) 
+----------
 ORCID：https://orcid.org/my-orcid?orcid=0000-0002-6687-6975
 Email：xingshixu@nwafu.edu.cn
 ----------
 ## Works
+----------
 ### About Cattle
 #### Light-weight recognition network for dairy cows based on the fusion of YOLOv5s and channel pruning algorithm
 https://dx.doi.org/10.11975/j.issn.1002-6819.202303122
