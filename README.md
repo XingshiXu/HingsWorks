@@ -1,5 +1,5 @@
-# a repository for my work
-Xingshi Xu (Hings Hsu) 
+# a repository for my (or my team) work
+Xingshi Xu (Hings Hsu) / Zhixin Hua
 ----------
 ##### ORCID：https://orcid.org/my-orcid?orcid=0000-0002-6687-6975
 ##### Email：xingshixu@nwafu.edu.cn
