@@ -7,22 +7,33 @@ Xingshi Xu (Hings Hsu) / Zhixin Hua / Hongxing Deng
 ## Works
 ----------
 ### About Cattle
-#### Light-weight recognition network for dairy cows based on the fusion of YOLOv5s and channel pruning algorithm
+#### 身份识别
+##### Light-weight recognition network for dairy cows based on the fusion of YOLOv5s and channel pruning algorithm
 https://dx.doi.org/10.11975/j.issn.1002-6819.202303122
 Transactions of the Chinese Society of Agricultural Engineering
 
-#### ShuffleNet-Triplet: A lightweight RE-identification network for dairy cows in natural scenes
+##### ShuffleNet-Triplet: A lightweight RE-identification network for dairy cows in natural scenes
 https://dx.doi.org/10.1016/j.compag.2023.107632
 Computers and Electronics in Agriculture
 
-#### Fusion of RetinaFace and improved FaceNet for individual cow identification in natural scenes
+##### Fusion of RetinaFace and improved FaceNet for individual cow identification in natural scenes
 http://dx.doi.org/10.1016/j.inpa.2023.09.001
 Information Processing in Agriculture
+
+#### 体尺测量
+##### Automated measurement of beef cattle body size via key point detection and monocular depth estimation
+https://doi.org/10.1016/j.eswa.2023.123042
+Expert Systems With Applications
 
 #### Automated measurement of dairy cows body size via 3D point cloud data analysis
 http://dx.doi.org/10.1016/j.compag.2022.107218
 Computers and Electronics in Agriculture
 
+#### Extracting cow point clouds from multi-view RGB images with an improved YOLACT++ instance segmentation
+https://doi.org/10.1016/j.eswa.2023.120730
+Expert Systems with Applications
+
+#### 动作与行为
 #### An effective PoseC3D model for typical action recognition of dairy cows based on skeleton features
 http://dx.doi.org/10.1016/j.compag.2023.108152
 Computers and Electronics in Agriculture
@@ -38,10 +49,6 @@ Transactions of the Chinese Society for Agricultural Machinery
 #### Lightweight recognition for the oestrus behavior of dairy cows combining YOLO v5n and channel pruning
 https://dx.doi.org/10.11975/j.issn.1002-6819.2022.23.014
 Transactions of the Chinese Society of Agricultural Engineering
-
-#### Extracting cow point clouds from multi-view RGB images with an improved YOLACT++ instance segmentation
-https://doi.org/10.1016/j.eswa.2023.120730
-Expert Systems with Applications
 
 #### E-YOLO: Recognition of estrus cow based on improved YOLOv8n model
 https://doi.org/10.1016/j.eswa.2023.122212
