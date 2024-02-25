@@ -2,13 +2,13 @@
 
 Xingshi Xu (Hings Hsu) 
 
-Contributors： 
-  Zhixin Hua, ZJU PhD candidate
-  Hongxing Deng, 
-  Guangyuan Yang, PhD candidate, NWAFU (Now in Adelaide U)
-  Yunfei Wang, PhD candidate: NWAFU
-  Yuying Shang, PhD candidate, NWAFU
-  Zheng Wang, ZJU PhD candidate
+Contributors:
+  - Zhixin Hua, ZJU PhD candidate
+  - Hongxing Deng
+  - Guangyuan Yang, PhD candidate, NWAFU (Now in Adelaide U)
+  - Yunfei Wang, PhD candidate: NWAFU
+  - Yuying Shang, PhD candidate, NWAFU
+  - Zheng Wang, ZJU PhD candidate
 
 ----------
 ##### ORCID：https://orcid.org/my-orcid?orcid=0000-0002-6687-6975
