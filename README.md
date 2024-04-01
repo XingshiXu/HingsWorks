@@ -1,14 +1,14 @@
-# a repo for my (or my team) work
+# a Repo for my (or my team) work
 
 MY NAME: Xingshi Xu (Hings Hsu) 
 
 Contributors:
-  - Zhixin Hua, ZJU PhD candidate
-  - Hongxing Deng
-  - Guangyuan Yang, PhD candidate, NWAFU (Now in Adelaide U)
-  - Yunfei Wang, PhD candidate: NWAFU
-  - Yuying Shang, PhD candidate, NWAFU
-  - Zheng Wang, ZJU PhD candidate
+  - Zhixin Hua,     ZJU   PhD candidate
+  - Hongxing Deng,
+  - Guangyuan Yang, NWAFU PhD candidate,  (Now in Adelaide U)
+  - Yunfei Wang,    NWAFU PhD candidate,
+  - Yuying Shang,   NWAFU PhD candidate, 
+  - Zheng Wang,     ZJU   PhD candidate,
 
 ----------
 ##### ORCID：https://orcid.org/my-orcid?orcid=0000-0002-6687-6975
@@ -94,4 +94,4 @@ _Author_: Huaibo Song, Yitao Jiao, Zhixin Hua, Rong Li, ** Xingshi Xu**
 [链接](https://doi.org/10.6041/j.issn.1000-1298.2023.03.040) https://doi.org/10.6041/j.issn.1000-1298.2023.03.040  
 Transactions of the Chinese Society for Agricultural Machinery  
 
-
+If you find our work useful in your research, please cite.
