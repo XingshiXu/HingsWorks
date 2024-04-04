@@ -1,6 +1,6 @@
 # a Repo for my (or my team) work
 
-MY NAME: Xingshi Xu (Hings Hsu) 
+MY NAME: Xingshi Xu (Hings Hsu)  
 MY supervisor: Prof [Huaibo Song](https://cmee.nwsuaf.edu.cn/szdw/gjzcry/318457.htm)
 
 Contributors:
