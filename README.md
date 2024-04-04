@@ -60,7 +60,7 @@ _中科院一区TOP, CiteScroe=12.6, IF=8.5_
 ## 部位分割
 ####  &#x2714; Segmentation Model of Cow Body Parts Based on YOLO v8n-seg-FCA-BiFPN  
 _Author_:Shujin Zhang, ** Xingshi Xu**， Hongxing Deng, Yunchen Wen, Huaibo Song  
-[链接]https://doi.org/10.???) https://doi.org/10.XXXXXXX  
+[链接]https://doi.org/10.6041/j.issn.1000-1298.2024.03.028) https://doi.org/10.XXXXXXX  
 Transactions of the Chinese Society for Agricultural Machinery  
 _EI，中国科协农林领域高质量科技期刊分级目录T1级期刊_  
 
