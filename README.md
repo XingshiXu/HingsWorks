@@ -28,13 +28,13 @@ _EI，同学科排名第一，中国科协农林领域高质量科技期刊分�
 
 #####  &#x2714; ShuffleNet-Triplet: A lightweight RE-identification network for dairy cows in natural scenes
 _Author_:Yunfei Wang, ** Xingshi Xu**, Zheng Wang, Rong Li, Zhixin Hua, Huaibo Song  
-[链接](https://dx.doi.org/10.1016/j.compag.2023.107632)https://dx.doi.org/10.1016/j.compag.2023.107632  
+[链接](https://dx.doi.org/10.1016/j.compag.2023.107632) https://dx.doi.org/10.1016/j.compag.2023.107632  
 Computers and Electronics in Agriculture  
 _中科院一区TOP, CiteScroe=13.6, IF=8.3_  
 
 #####  &#x2714; Fusion of RetinaFace and improved FaceNet for individual cow identification in natural scenes  
 _Author_:Lingling Yang, ** Xingshi Xu**, Jizheng Zhao, Huaibo Song  
-[链接](http://dx.doi.org/10.1016/j.inpa.2023.09.001)http://dx.doi.org/10.1016/j.inpa.2023.09.001  
+[链接](http://dx.doi.org/10.1016/j.inpa.2023.09.001) http://dx.doi.org/10.1016/j.inpa.2023.09.001  
 Information Processing in Agriculture   
 _CiteScroe=13.7_  
 
@@ -42,7 +42,7 @@ _CiteScroe=13.7_
 ## 体尺测量
 #####  &#x2714; Automated measurement of beef cattle body size via key point detection and monocular depth estimation
 _Author_:Guangyuan Yang, ** Xingshi Xu**, Lei Song, Qianru Zhang, Yuanchao Duan, Huaibo Song  
-[链接](https://doi.org/10.1016/j.eswa.2023.123042)https://doi.org/10.1016/j.eswa.2023.123042  
+[链接](https://doi.org/10.1016/j.eswa.2023.123042) https://doi.org/10.1016/j.eswa.2023.123042  
 Expert Systems With Applications  
 _中科院一区TOP, CiteScroe=12.6, IF=8.5_  
 
@@ -61,7 +61,7 @@ _中科院一区TOP, CiteScroe=12.6, IF=8.5_
 ## 部位分割
 ####  &#x2714; Segmentation Model of Cow Body Parts Based on YOLO v8n-seg-FCA-BiFPN  
 _Author_:Shujin Zhang, ** Xingshi Xu**， Hongxing Deng, Yunchen Wen, Huaibo Song  
-[链接]https://doi.org/10.6041/j.issn.1000-1298.2024.03.028) https://doi.org/10.XXXXXXX  
+[链接](https://doi.org/10.6041/j.issn.1000-1298.2024.03.028) https://doi.org/10.6041/j.issn.1000-1298.2024.03.028    
 Transactions of the Chinese Society for Agricultural Machinery  
 _EI，中国科协农林领域高质量科技期刊分级目录T1级期刊_  
 
