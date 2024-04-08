@@ -32,6 +32,13 @@ _Author_:Yunfei Wang, ** Xingshi Xu**, Zheng Wang, Rong Li, Zhixin Hua, Huaibo S
 Computers and Electronics in Agriculture  
 _中科院一区TOP, CiteScroe=13.6, IF=8.3_  
 
+#####  &#x2714; Few-shot Cow Identification via Meta-learning  
+_Author_:** Xingshi Xu**, Yunfei Wang, Guangyuan Yang, Zhixin Hua, Zheng Wang, Huaibo Song  
+[链接](http://dx.doi.org/10.1016/j  
+Information Processing in Agriculture   
+_CiteScroe=13.7_  
+
+
 #####  &#x2714; Fusion of RetinaFace and improved FaceNet for individual cow identification in natural scenes  
 _Author_:Lingling Yang, ** Xingshi Xu**, Jizheng Zhao, Huaibo Song  
 [链接](http://dx.doi.org/10.1016/j.inpa.2023.09.001) http://dx.doi.org/10.1016/j.inpa.2023.09.001  
