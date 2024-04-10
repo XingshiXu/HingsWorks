@@ -34,7 +34,7 @@ _中科院一区TOP, CiteScroe=13.6, IF=8.3_
 
 #####  &#x2714; Few-shot Cow Identification via Meta-learning  
 _Author_:** Xingshi Xu**, Yunfei Wang, Guangyuan Yang, Zhixin Hua, Zheng Wang, Huaibo Song  
-[链接](http://dx.doi.org/10.1016/j  
+[链接](https://doi.org/10.1016/j.inpa.2024.04.001) https://doi.org/10.1016/j.inpa.2024.04.001  
 Information Processing in Agriculture   
 _CiteScroe=13.7_  
 
