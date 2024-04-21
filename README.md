@@ -1,7 +1,9 @@
 # a Repo for my (or my team) work
 
 MY NAME: Xingshi Xu (Hings Hsu)  
-MY supervisor: Prof [Huaibo Song](https://cmee.nwsuaf.edu.cn/szdw/gjzcry/318457.htm)
+MY supervisor: Prof [Huaibo Song](https://cmee.nwsuaf.edu.cn/szdw/gjzcry/318457.htm)  
+
+  DataSet Link: 
 
 Contributors:
   - **Zhixin Hua**     ZJU   Ph.D. candidate,
@@ -49,14 +51,14 @@ _CiteScroe=13.7_
 ## 体尺测量
 #####  &#x2714; Automated measurement of beef cattle body size via key point detection and monocular depth estimation
 _Author_:Guangyuan Yang, ** Xingshi Xu**, Lei Song, Qianru Zhang, Yuanchao Duan, Huaibo Song  
-[链接](https://doi.org/10.1016/j.eswa.2023.123042) https://doi.org/10.1016/j.eswa.2023.123042  
+[链接](http://dx.doi.org/10.1016/j.compag.2022.107218) http://dx.doi.org/10.1016/j.compag.2022.107218  
+Computers and Electronics in Agriculture   
 Expert Systems With Applications  
 _中科院一区TOP, CiteScroe=12.6, IF=8.5_  
 
 #####  &#x2714; Automated measurement of dairy cows body size via 3D point cloud data analysis
 _Author_:Rong Li, Yuchen Wen, Shujin Zhang, ** Xingshi Xu**， Baoling M, Huaibo Song  
-[链接](http://dx.doi.org/10.1016/j.compag.2022.107218) http://dx.doi.org/10.1016/j.compag.2022.107218  
-Computers and Electronics in Agriculture   
+[链接](https://doi.org/10.1016/j.eswa.2023.123042) https://doi.org/10.1016/j.eswa.2023.123042  
 _中科院一区TOP, CiteScroe=13.6, IF=8.3_   
 
 #####  &#x2714; Extracting cow point clouds from multi-view RGB images with an improved YOLACT++ instance segmentation
