@@ -5,14 +5,21 @@ MY supervisor: Prof [Huaibo Song](https://cmee.nwsuaf.edu.cn/szdw/gjzcry/318457.
 
   DataSet Link: 
 
-Contributors:
-  - **Zhixin Hua**     ZJU   Ph.D. candidate,
-  - **Hongxing Deng**  NWAFU
-  - **Guangyuan Yang** NWAFU Ph.D. candidate,  (Now in Adelaide U)
-  - **Yunfei Wang**    NWAFU Ph.D. candidate,
-  - **Yuying Shang**   NWAFU Ph.D. candidate, 
-  - **Zheng Wang**     ZJU   Ph.D. candidate,
-  - **Shujin Zhang**   NWAFU
+Mainly Contributors:
+
+
+| Name           | Instru      | Job   |
+| ------------ | ------------ | -------------- |
+| Guangyuan Yang| NWAFU        | Ph.D. candidate (Now in Adelaide U) |
+| Yunfei Wang  | NWAFU        | Ph.D. candidate|
+| Yuying Shang | NWAFU        | Ph.D. candidate|
+| Zheng Wang   | ZJU          | Ph.D. candidate|
+| Zhixin Hua   | ZJU          | Ph.D. candidate |
+| Xingshi Xu   | NWAFU        | Ph.D. candidate |
+| Hongxing Deng| NWAFU        | Master's student  |
+| Shujin Zhang | NWAFU        | Master's student  |
+
+
 
 ----------
 ##### ORCID：https://orcid.org/my-orcid?orcid=0000-0002-6687-6975
