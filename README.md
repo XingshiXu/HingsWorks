@@ -117,6 +117,7 @@ _中科院一区TOP, CiteScroe=12.6, IF=8.5_
 ---------
 # About Other
 #####  &#x2714; Using lightweight deep learning algorithm for real-time detection of apple flowers in natural environments
+(高被引论文 _Highly cited paper_)
 _Author_: Yunying Shang, ** Xingshi Xu**, Yitao Jiao, Zheng Wang, Zhixin Hua, Huaibo Song  
 [链接](http://dx.doi.org/10.1016/j.compag.2023.107765) http://dx.doi.org/10.1016/j.compag.2023.107765  
 Computers and Electronics in Agriculture  
