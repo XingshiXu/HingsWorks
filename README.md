@@ -114,6 +114,13 @@ _Author_: Zheng Wang,  Zhixin Hua, Yuchen Wen, Shujin Zhang, ** Xingshi Xu**,Hua
 Expert Systems with Applications  
 _中科院一区TOP, CiteScroe=12.6, IF=8.5_  
 
+## 综述论文 
+##### Research progress of intelligent recognition technology for large-scale dairy cows based on video analysis   
+_Author_: Huaibo Song, Yunfei Wang, Hongxing Deng, ** Xingshi Xu**, Yuchen Wen, Shujin Zhang  
+[链接](https://doi.org/10.XX) https://doi.org/10.XX
+Journal of South China Agricultural University 
+
+
 ---------
 # About Other
 #####  &#x2714; Using lightweight deep learning algorithm for real-time detection of apple flowers in natural environments
