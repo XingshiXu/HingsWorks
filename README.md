@@ -1,6 +1,11 @@
 # a Repo for my (or my team) work
 
-MY NAME: Xingshi Xu (Hings Hsu)  [My ORCID](https://orcid.org/0000-0002-6687-6975)  
+MY NAME: Xingshi Xu (Hings Hsu)  [My ORCID](https://orcid.org/0000-0002-6687-6975)   
+Xingshi Xu received the B.S. degree in electronics and information engineering from NWAFU, Xianyang, China, in 2022.   
+He is currently pursuing the Ph.D. degree with the School of Electrification and Automation, NWAFU, Xianyang, China.   
+His current research interests include biometrics (i.e.cattle recognition) and image enhancing (i.e. zero-shot image restoration).   
+He is a reviewer of Engineering applications of artificial intelligence (EAAI), Biosystems engineering (BE) and other journals.   
+    
 MY supervisor: Prof [Huaibo Song](https://cmee.nwsuaf.edu.cn/szdw/gjzcry/318457.htm)  
 
   DataSet Link: 
