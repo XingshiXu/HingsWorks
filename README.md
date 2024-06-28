@@ -35,7 +35,7 @@ Mainly Contributors:
 # 🧩🧩About Cattle
 ## 🧩身份识别
 #####  &#x2714; Light-weight recognition network for dairy cows based on the fusion of YOLOv5s and channel pruning algorithm
-_Author_: *** Xingshi Xu*** , Yunfei Wang, Zhixin Hua, Guangyuan Yang, Huimin Li, Huaibo Song  
+_Author_: ***Xingshi Xu*** , Yunfei Wang, Zhixin Hua, Guangyuan Yang, Huimin Li, Huaibo Song  
 [链接](https://dx.doi.org/10.11975/j.issn.1002-6819.202303122) https://dx.doi.org/10.11975/j.issn.1002-6819.202303122  
 Transactions of the Chinese Society of Agricultural Engineering  
 _EI，同学科排名第一，中国科协农林领域高质量科技期刊分级目录T1级期刊_  
