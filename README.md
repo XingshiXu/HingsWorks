@@ -34,14 +34,14 @@ Mainly Contributors:
 ----------
 # 🧩🧩About Cattle
 ## 🧩身份识别  
-#####  &#x2714; (https://img.shields.io/badge/First author-XuXingshi-orange.svg) Boosting cattle face recognition under uncontrolled scenes by embedding enhancement and optimization  🆕  
+#####  &#x2714; (https://img.shields.io/badge/FirstAuthor-XuXingshi-orange.svg) Boosting cattle face recognition under uncontrolled scenes by embedding enhancement and optimization  🆕  
 _Author_:***Xingshi Xu***, Hongxing Deng, Yunfei Wang, Shujin Zhang, Huaibo Song  
 [链接](https://www.sciencedirect.com/science/article/pii/S1568494624007257) 
 Applied Soft Computing   
 _IF=7.2_ 
 
 
-#####  &#x2714; (https://img.shields.io/badge/First author-XuXingshi-orange.svg) Light-weight recognition network for dairy cows based on the fusion of YOLOv5s and channel pruning algorithmXuXingshi
+#####  &#x2714; (https://img.shields.io/badge/FirstAuthor-XuXingshi-orange.svg) Light-weight recognition network for dairy cows based on the fusion of YOLOv5s and channel pruning algorithmXuXingshi
 _Author_: ***Xingshi Xu*** , Yunfei Wang, Zhixin Hua, Guangyuan Yang, Huimin Li, Huaibo Song  
 [链接](https://dx.doi.org/10.11975/j.issn.1002-6819.202303122) https://dx.doi.org/10.11975/j.issn.1002-6819.202303122  
 Transactions of the Chinese Society of Agricultural Engineering  
@@ -53,7 +53,7 @@ _Author_:Yunfei Wang, ***Xingshi Xu***, Zheng Wang, Rong Li, Zhixin Hua, Huaibo 
 Computers and Electronics in Agriculture  
 _中科院一区TOP,  IF=8.3_  
 
-#####  &#x2714; (https://img.shields.io/badge/First author-XuXingshi-orange.svg) Few-shot Cow Identification via Meta-learning  🆕  
+#####  &#x2714; (https://img.shields.io/badge/FirstAuthor-XuXingshi-orange.svg) Few-shot Cow Identification via Meta-learning  🆕  
 _Author_:***Xingshi Xu***, Yunfei Wang, Guangyuan Yang, Zhixin Hua, Zheng Wang, Huaibo Song  
 [链接](https://doi.org/10.1016/j.inpa.2024.04.001) https://doi.org/10.1016/j.inpa.2024.04.001  
 Information Processing in Agriculture   
