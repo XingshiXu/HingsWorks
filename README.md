@@ -1,12 +1,13 @@
-# a Repo for my (or my team) work
+# a Repo for my (or my team's) work
 
-MY NAME: 许兴时, Xingshi Xu (Hings Hsu)  [My ORCID](https://orcid.org/0000-0002-6687-6975)   
+NAME: 许兴时, Xingshi Xu (Hings Hsu)  [My ORCID](https://orcid.org/0000-0002-6687-6975)   
 Xingshi Xu received the B.S. degree in electronics and information engineering from NWAFU, Xianyang, China, in 2022.   
 He is currently pursuing the Ph.D. degree with the School of Electrification and Automation, NWAFU, Xianyang, China.   
 His current research interests include biometrics (i.e.cattle recognition) and image enhancing (i.e. zero-shot image restoration).   
 He is a reviewer of Engineering applications of artificial intelligence (EAAI), Biosystems engineering (BE) and other journals.   
-    
+      
 MY supervisor: Prof [Huaibo Song](https://cmee.nwsuaf.edu.cn/szdw/gjzcry/318457.htm)  
+Other supervisor: Prof [Diyi Chen](https://sjxy.nwsuaf.edu.cn/szdwB/gjzcB/16793B.htm)
 
 
 
@@ -15,13 +16,13 @@ Mainly Contributors:
 
 | Name           | Instru      | Job   |
 | ------------ | ------------ | -------------- |
-| Guangyuan Yang| NWAFU        | Ph.D. candidate (Now in Adelaide U) |
+| Guangyuan Yang| NWAFU & Adelaide U  | Ph.D. candidate (Now in Adelaide U) |
 | Yunfei Wang  | NWAFU        | Ph.D. candidate|
 | Yuying Shang | NWAFU        | Ph.D. candidate|
 | Zheng Wang   | ZJU          | Ph.D. candidate|
 | Zhixin Hua   | ZJU          | Ph.D. candidate |
 | Xingshi Xu   | NWAFU        | Ph.D. candidate |
-| Hongxing Deng| NWAFU        | Master's student  |
+| Hongxing Deng| NWAFU        | Ph.D. candidate  |
 | Shujin Zhang | NWAFU        | Master's student  |
 
 
@@ -38,10 +39,10 @@ Mainly Contributors:
 _Author_:***Xingshi Xu***, Hongxing Deng, Yunfei Wang, Shujin Zhang, Huaibo Song  
 [链接](https://www.sciencedirect.com/science/article/pii/S1568494624007257) 
 Applied Soft Computing   
-_IF=7.2_ 
+_中科院一区TOP_ 
 
 
-#####  &#x2714; ![](https://img.shields.io/badge/FirstAuthor-XuXingshi-orange.svg) Light-weight recognition network for dairy cows based on the fusion of YOLOv5s and channel pruning algorithmXuXingshi
+#####  &#x2714; ![](https://img.shields.io/badge/FirstAuthor-XuXingshi-orange.svg) Light-weight recognition network for dairy cows based on the fusion of YOLOv5s and channel pruning algorithm  
 _Author_: ***Xingshi Xu*** , Yunfei Wang, Zhixin Hua, Guangyuan Yang, Huimin Li, Huaibo Song  
 [链接](https://dx.doi.org/10.11975/j.issn.1002-6819.202303122) https://dx.doi.org/10.11975/j.issn.1002-6819.202303122  
 Transactions of the Chinese Society of Agricultural Engineering  
@@ -51,20 +52,27 @@ _EI，同学科排名第一，中国科协农林领域高质量科技期刊分�
 _Author_:Yunfei Wang, ***Xingshi Xu***, Zheng Wang, Rong Li, Zhixin Hua, Huaibo Song  
 [链接](https://dx.doi.org/10.1016/j.compag.2023.107632) https://dx.doi.org/10.1016/j.compag.2023.107632  
 Computers and Electronics in Agriculture  
-_中科院一区TOP,  IF=8.3_  
+_中科院一区TOP_  
 
 #####  &#x2714; ![](https://img.shields.io/badge/FirstAuthor-XuXingshi-orange.svg) Few-shot Cow Identification via Meta-learning  🆕  
 _Author_:***Xingshi Xu***, Yunfei Wang, Guangyuan Yang, Zhixin Hua, Zheng Wang, Huaibo Song  
 [链接](https://doi.org/10.1016/j.inpa.2024.04.001) https://doi.org/10.1016/j.inpa.2024.04.001  
 Information Processing in Agriculture   
-_IF=7.6_  
+_Q1, IF=7.6_  
 
 
 #####  &#x2714; Fusion of RetinaFace and improved FaceNet for individual cow identification in natural scenes  
 _Author_:Lingling Yang, ***Xingshi Xu***, Jizheng Zhao, Huaibo Song  
 [链接](http://dx.doi.org/10.1016/j.inpa.2023.09.001) http://dx.doi.org/10.1016/j.inpa.2023.09.001  
 Information Processing in Agriculture   
-_IF=7.6_  
+_Q1, IF=7.6_  
+
+#####  &#x2714; ![](https://img.shields.io/badge/FirstAuthor-XuXingshi-orange.svg) Nighttime cattle face recognition based on cross-modal shared feature learning
+_Author_: ***Xingshi Xu*** , Hongxing Deng, Yunfei Wang, Huaibo Song  
+[链接](https://dx.doi.org/10.7671/j.issn.1001-411X.202403020) https://dx.doi.org/10.7671/j.issn.1001-411X.202403020
+Journal of South China Agricultural University    
+_约稿_  
+
 
 
 ## 🧩体尺测量
@@ -72,19 +80,26 @@ _IF=7.6_
 _Author_:Guangyuan Yang, ***Xingshi Xu***, Lei Song, Qianru Zhang, Yuanchao Duan, Huaibo Song  
 [链接](http://dx.doi.org/10.1016/j.compag.2022.107218) http://dx.doi.org/10.1016/j.compag.2022.107218  
 Computers and Electronics in Agriculture   
-Expert Systems With Applications  
-_中科院一区TOP, IF=8.5_  
+
+_中科院一区TOP_  
 
 #####  &#x2714; Automated measurement of dairy cows body size via 3D point cloud data analysis
 _Author_:Rong Li, Yuchen Wen, Shujin Zhang, ***Xingshi Xu***， Baoling M, Huaibo Song  
 [链接](https://doi.org/10.1016/j.eswa.2023.123042) https://doi.org/10.1016/j.eswa.2023.123042  
-_中科院一区TOP, IF=8.3_   
+Expert Systems With Applications  
+_中科院一区TOP_   
 
 #####  &#x2714; Extracting cow point clouds from multi-view RGB images with an improved YOLACT++ instance segmentation
 _Author_:Guangyuan Yang, Rong Li, Yuchen Wen, Shujin Zhang, ***Xingshi Xu***， Huaibo Song  
 [链接](https://doi.org/10.1016/j.eswa.2023.120730) https://doi.org/10.1016/j.eswa.2023.120730  
 Expert Systems with Applications  
-_中科院一区TOP, IF=8.5_  
+_中科院一区TOP_  
+
+#####  &#x2714; Dairy cow body size measurement method based on binocular stereo matching and improved YOLOv8n-Pose keypoint detection
+_Author_:Hongxing Deng, ***Xingshi Xu***, Yunfei Wang, Shujin Zhang, Huaibo Song  
+[链接](10.7671/j.issn.1001-411X.202404001) 10.7671/j.issn.1001-411X.202404001  
+Journal of South China Agricultural University  
+_会议投稿，入选会议“优秀论文”_  
 
 ## 🧩部位分割
 ####  &#x2714; Segmentation Model of Cow Body Parts Based on YOLO v8n-seg-FCA-BiFPN  
@@ -99,7 +114,7 @@ _EI，中国科协农林领域高质量科技期刊分级目录T1级期刊_
 _Author_:Zhixin Hua, Zheng Wang, ***Xingshi Xu***， Xiangfeng Kong, Huaibo Song  
 [链接](http://dx.doi.org/10.1016/j.compag.2023.108152) http://dx.doi.org/10.1016/j.compag.2023.108152  
 Computers and Electronics in Agriculture  
-_中科院一区TOP, IF=8.3_  
+_中科院一区TOP_  
 
 
 #####  &#x2714; Research Progress and Technology Trend of Intelligent Morning of Dairy Cow Motion Behavior [Review]
@@ -124,13 +139,14 @@ _EI，同学科排名第一，中国科协农林领域高质量科技期刊分�
 _Author_: Zheng Wang,  Zhixin Hua, Yuchen Wen, Shujin Zhang, ***Xingshi Xu***,Huaibo Song  
 [链接](https://doi.org/10.1016/j.eswa.2023.122212) https://doi.org/10.1016/j.eswa.2023.122212  
 Expert Systems with Applications  
-_中科院一区TOP,  IF=8.5_  
+_中科院一区TOP_  
 
 ## 🧩🧩综述论文 
 ##### Research progress of intelligent recognition technology for large-scale dairy cows based on video analysis   
 _Author_: Huaibo Song, Yunfei Wang, Hongxing Deng, ***Xingshi Xu***, Yuchen Wen, Shujin Zhang  
-[链接](https://doi.org/10.XX) https://doi.org/10.XX
+[链接](https://doi.org/10.7671/j.issn.1001-411X.202403038) https://doi.org/10.7671/j.issn.1001-411X.202403038
 Journal of South China Agricultural University 
+_特约综述_  
 
 
 ---------
