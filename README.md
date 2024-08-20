@@ -164,6 +164,16 @@ _Author_: Huaibo Song, Yitao Jiao, Zhixin Hua, Rong Li, ***Xingshi Xu***
 Transactions of the Chinese Society for Agricultural Machinery  
 _EI，中国科协农林领域高质量科技期刊分级目录T1级期刊_  
 
+\
+
+  ## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=XingshiXu/HingsWorks&type=Date)](https://star-history.com/#XingshiXu/HingsWorks&Date)  
+Star this repo! follow the new research!
+  
+  
+
+  
 If you find our work useful in your research, please kindly cite. 
 感谢审稿人、编辑、潜在读者的支持与帮助，祝您天天开心、心想事成。    
 
