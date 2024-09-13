@@ -4,11 +4,13 @@
 Xingshi Xu received the B.S. degree in electronics and information engineering from NWAFU, Xianyang, China, in 2022. He is currently pursuing the Ph.D. degree with the School of Electrification and Automation, NWAFU, Xianyang, China. His current research interests include biometrics (i.e.cattle recognition) and image enhancing (i.e. zero-shot image restoration).   
 He is a reviewer of Engineering applications of artificial intelligence (EAAI), Biosystems engineering (BE) and other journals.   
   
-许兴时在2022年西北农林科技大学机械与电子工程学院获得学士学位，同年免试攻读硕士学位。他目前在西北农林科技大学攻读电气及其自动化的博士学位。他的研究领域包括细粒度分类、图像增强等。  
+许兴时在2022年西北农林科技大学机械与电子工程学院获得学士学位，同年免试攻读硕士学位。他目前在西北农林科技大学攻读电气及其自动化的博士学位。期间获国家奖学金并受人民日报报导。他的研究领域包括智慧养殖领域的细粒度分类、图像增强等。  
 他是以下期刊的审稿人：Engineering applications of artificial intelligence (EAAI), Biosystems engineering (BE),  Computers & electrical engineering, Information processing in agriculture（INPA） 
   
 Supervisor 导师: Prof [Huaibo Song](https://cmee.nwsuaf.edu.cn/szdw/gjzcry/318457.htm)宋怀波教授  
-Other supervisor 项目相关的其他相关老师: Prof [Diyi Chen](https://sjxy.nwsuaf.edu.cn/szdwB/gjzcB/16793B.htm) 陈帝伊教授 长江  
+Other supervisor 项目相关的其他相关老师:   
+Prof [Diyi Chen](https://sjxy.nwsuaf.edu.cn/szdwB/gjzcB/16793B.htm) 陈帝伊教授 长江  
+Prof [Bo Jiang](https://cmee.nwsuaf.edu.cn/szdw/gjzcry/5a71f1ee3c9440528209be9223804c2c.htm) 姜波
 
 ----------------------------------------
 
