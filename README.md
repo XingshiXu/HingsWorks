@@ -2,10 +2,10 @@
 
 许兴时, Xingshi Xu (Hings Hsu)  [My ORCID](https://orcid.org/0000-0002-6687-6975)   
 Xingshi Xu received the B.S. degree in electronics and information engineering from NWAFU, Xianyang, China, in 2022. He is currently pursuing the Ph.D. degree with the School of Electrification and Automation, NWAFU, Xianyang, China. His current research interests include biometrics (i.e.cattle recognition) and image enhancing (i.e. zero-shot image restoration).   
-He is a reviewer of Engineering applications of artificial intelligence (EAAI), Biosystems engineering (BE) and other journals.   
+He is a reviewer of Expert Systems With Applications (EWSA)，Engineering applications of artificial intelligence (EAAI), Biosystems engineering (BE) and other journals.   
   
-许兴时在2022年西北农林科技大学机械与电子工程学院获得学士学位，同年免试攻读硕士学位。他目前在西北农林科技大学攻读电气及其自动化的博士学位。期间获国家奖学金并受人民日报报导。他的研究领域包括智慧养殖领域的细粒度分类、图像增强等。  
-他是以下期刊的审稿人：Engineering applications of artificial intelligence (EAAI), Biosystems engineering (BE),  Computers & electrical engineering, Information processing in agriculture（INPA） 
+许兴时在2022年西北农林科技大学机械与电子工程学院获得学士学位，同年免试攻读硕士学位。他目前在西北农林科技大学攻读电气及其自动化的博士学位。期间获**国家奖学金**并受**人民日报**报导。2024年在[国家生猪技术创新中心](http://www.nctip.cn/)大数据所短期实习。他的研究领域包括智慧养殖领域的细粒度分类、图像增强等。  
+他是以下期刊的审稿人：Expert Systems With Applications (EWSA)，Engineering applications of artificial intelligence (EAAI), Biosystems engineering (BE),  Computers & electrical engineering, Information processing in agriculture（INPA） 
   
 Supervisor 导师: Prof [Huaibo Song](https://cmee.nwsuaf.edu.cn/szdw/gjzcry/318457.htm)宋怀波教授   
   
@@ -17,7 +17,6 @@ Prof [Bo Jiang](https://cmee.nwsuaf.edu.cn/szdw/gjzcry/5a71f1ee3c9440528209be922
 
 
 Mainly Contributors:
-
 
 | Name           | Instru      | Job   |
 | ------------ | ------------ | -------------- |
@@ -38,6 +37,8 @@ Mainly Contributors:
 ----------
 ## Works
 ----------
+
+
 # 🧩🧩About Cattle
 ## 🧩身份识别  
 #####  &#x2714; ![](https://img.shields.io/badge/FirstAuthor-XuXingshi-orange.svg) Boosting cattle face recognition under uncontrolled scenes by embedding enhancement and optimization  🆕  
@@ -169,11 +170,18 @@ _Author_: Huaibo Song, Yitao Jiao, Zhixin Hua, Rong Li, ***Xingshi Xu***
 Transactions of the Chinese Society for Agricultural Machinery  
 _EI，中国科协农林领域高质量科技期刊分级目录T1级期刊_  
 
+#####  &#x2714; ![](https://img.shields.io/badge/FirstAuthor-XuXingshi-orange.svg) Plant leaf disease identification by parameter-efficient Transformer with Adapter  🆕  
+_Author_:***Xingshi Xu***, Guangyuan Yang, Yunfei Wang, Yuying Shang, Zhixin Hua, Zheng Wang, Huaibo Song  
+[链接](https:) https://doi.org/  in press  
+Engineering Applications of Artificial Intelligence
+_中科院一区TOP,  IF=7.5, CCF-C_  
+
 
   ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=XingshiXu/HingsWorks&type=Date)](https://star-history.com/#XingshiXu/HingsWorks&Date)  
-Star this repo! follow the new research!
+  
+Star this repo! Follow the new research!
   
   
 
