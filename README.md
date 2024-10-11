@@ -43,9 +43,9 @@ Mainly Contributors:
 ## 🧩身份识别  
 #####  &#x2714; ![](https://img.shields.io/badge/FirstAuthor-XuXingshi-orange.svg) Boosting cattle face recognition under uncontrolled scenes by embedding enhancement and optimization  🆕  
 _Author_:***Xingshi Xu***, Hongxing Deng, Yunfei Wang, Shujin Zhang, Huaibo Song  
-[链接](https://www.sciencedirect.com/science/article/pii/S1568494624007257) 
+[链接](https://doi.org/10.1016/j.asoc.2024.111951) https://doi.org/10.1016/j.asoc.2024.111951  
 Applied Soft Computing   
-_中科院一区TOP_ 
+_中科院一区TOP, IF=7.2_ 
 
 
 #####  &#x2714; ![](https://img.shields.io/badge/FirstAuthor-XuXingshi-orange.svg) Light-weight recognition network for dairy cows based on the fusion of YOLOv5s and channel pruning algorithm  
