@@ -10,7 +10,7 @@ He is a reviewer of Expert Systems With Applications (EWSA)，Engineering applic
 Supervisor 导师: Prof [Huaibo Song](https://cmee.nwsuaf.edu.cn/szdw/gjzcry/318457.htm)宋怀波教授   
   
 Other supervisor 项目相关的其他相关老师:   
-Prof [Diyi Chen](https://sjxy.nwsuaf.edu.cn/szdwB/gjzcB/16793B.htm) 陈帝伊 教授 长江  
+Prof [Diyi Chen](https://sjxy.nwsuaf.edu.cn/szdwB/gjzcB/16793B.htm) 陈帝伊 教授 优青  
 Prof [Bo Jiang](https://cmee.nwsuaf.edu.cn/szdw/gjzcry/5a71f1ee3c9440528209be9223804c2c.htm) 姜波 副教授  
 
 ----------------------------------------
