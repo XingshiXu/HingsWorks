@@ -141,11 +141,7 @@ _Author_: Zheng Wang, ***Xingshi Xu***, Zhixin Hua, Yunying Shang, Yuanchao Duan
 Transactions of the Chinese Society of Agricultural Engineering  
 _EI，同学科排名第一，中国科协农林领域高质量科技期刊分级目录T1级期刊_  
 
-#####  &#x2714; E-YOLO: Recognition of estrus cow based on improved YOLOv8n model
-_Author_: Zheng Wang,  Zhixin Hua, Yuchen Wen, Shujin Zhang, ***Xingshi Xu***,Huaibo Song  
-[链接](https://doi.org/10.1016/j.eswa.2023.122212) https://doi.org/10.1016/j.eswa.2023.122212  
-Expert Systems with Applications  
-_中科院一区TOP_  
+
 
 ## 🧩🧩综述论文 
 ##### Research progress of intelligent recognition technology for large-scale dairy cows based on video analysis   
