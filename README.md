@@ -78,6 +78,12 @@ _Author_: ***Xingshi Xu*** , Hongxing Deng, Yunfei Wang, Huaibo Song
 [链接](https://dx.doi.org/10.7671/j.issn.1001-411X.202403020) https://dx.doi.org/10.7671/j.issn.1001-411X.202403020
 Journal of South China Agricultural University    
 _约稿_  
+  
+#####  &#x2714;  Adaptive Group Sample with Central Momentum Contrast Loss for Unsupervised Individual Identification of Cows in Changeable Conditions  🆕  
+_Author_:Yunfei Wang, ***Xingshi Xu***, Shujin Zhang, Yuchen Wen, Liuru Pu, Yongjie Zhao, Huaibo Song  
+[链接](https://doi.org/10.1016/j.asoc.2024.112340) https://doi.org/10.1016/j.asoc.2024.112340  
+Applied Soft Computing   
+_中科院一区TOP, IF=7.2_   
 
 
 
