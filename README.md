@@ -174,7 +174,7 @@ _EI，中国科协农林领域高质量科技期刊分级目录T1级期刊_
 
 #####  &#x2714; ![](https://img.shields.io/badge/FirstAuthor-XuXingshi-orange.svg) Plant leaf disease identification by parameter-efficient Transformer with Adapter  🆕  
 _Author_:***Xingshi Xu***, Guangyuan Yang, Yunfei Wang, Yuying Shang, Zhixin Hua, Zheng Wang, Huaibo Song  
-[链接](https:) https://doi.org/  in press  
+[链接](https://doi.org/10.1016/j.engappai.2024.109466) https://doi.org/10.1016/j.engappai.2024.109466
 Engineering Applications of Artificial Intelligence
 _中科院一区TOP,  IF=7.5, CCF-C_  
 
