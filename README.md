@@ -5,7 +5,7 @@ Xingshi Xu received the B.S. degree in electronics and information engineering f
 He is a reviewer of Expert Systems With Applications (EWSA)，Engineering applications of artificial intelligence (EAAI), Biosystems engineering (BE) and other journals.   
   
 许兴时在2022年西北农林科技大学机械与电子工程学院获得学士学位，同年免试攻读硕士学位。他目前在西北农林科技大学攻读电气及其自动化的博士学位。期间获**国家奖学金**并受**人民日报**报导。2024年在[国家生猪技术创新中心](http://www.nctip.cn/)大数据所短期实习。他的研究领域包括智慧养殖领域的细粒度分类、图像增强等。  
-他是以下期刊的审稿人：Expert Systems With Applications (**EWSA**)，Engineering applications of artificial intelligence (**EAAI**), Biosystems engineering (**BE**),  Computers & electrical engineering, Information processing in agriculture（**INPA**） 
+他是以下期刊的审稿人：Expert Systems With Applications (_**EWSA**_)，Engineering applications of artificial intelligence (_**EAAI**_), Biosystems engineering (_**BE**_),  Computers & electrical engineering, Information processing in agriculture（_**INPA**_） 
   
 Supervisor 导师: Prof [Huaibo Song](https://cmee.nwsuaf.edu.cn/szdw/gjzcry/318457.htm)宋怀波教授   
   
