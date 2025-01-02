@@ -164,7 +164,7 @@ _特约综述_
 _Author_: Yunying Shang, ***Xingshi Xu***, Yitao Jiao, Zheng Wang, Zhixin Hua, Huaibo Song  
 [链接](http://dx.doi.org/10.1016/j.compag.2023.107765) http://dx.doi.org/10.1016/j.compag.2023.107765  
 Computers and Electronics in Agriculture  
-_中科院一区TOP,  IF=8.3, 高被引论文_  
+_中科院一区TOP,  IF=8.3, **高被引论文**_  
 
 #####  &#x2714; Endosperm Crack Detection Method for Seed Dipping Maize Based on YOLO v5 OBB and CT Technology
 _Author_: Huaibo Song, Yitao Jiao, Zhixin Hua, Rong Li, ***Xingshi Xu***  
