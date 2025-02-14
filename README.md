@@ -87,14 +87,19 @@ _中科院一区TOP, IF=7.2_
 
 
 ## 🧩体尺测量
-#####  &#x2714; Automated measurement of beef cattle body size via key point detection and monocular depth estimation
+#####  &#x2714; Fusion of CREStereo and MobileViT-Pose for rapid measurement of cattle body size  
+_Author_:HongxingDeng, Guangyuan Yang, ***Xingshi Xu***, Zhixin Hua, Jiahui Liu, Huaibo Song  
+[链接](https://doi.org/10.1016/j.compag.2025.110103) https://doi.org/10.1016/j.compag.2025.110103  
+Computers and Electronics in Agriculture  
+_中科院一区TOP_  
+
+#####  &#x2714; Automated measurement of beef cattle body size via key point detection and monocular depth estimation  
 _Author_:Guangyuan Yang, ***Xingshi Xu***, Lei Song, Qianru Zhang, Yuanchao Duan, Huaibo Song  
 [链接](http://dx.doi.org/10.1016/j.compag.2022.107218) http://dx.doi.org/10.1016/j.compag.2022.107218  
 Computers and Electronics in Agriculture   
-
 _中科院一区TOP_  
 
-#####  &#x2714; Automated measurement of dairy cows body size via 3D point cloud data analysis
+#####  &#x2714; Automated measurement of dairy cows body size via 3D point cloud data analysis  
 _Author_:Rong Li, Yuchen Wen, Shujin Zhang, ***Xingshi Xu***， Baoling M, Huaibo Song  
 [链接](https://doi.org/10.1016/j.eswa.2023.123042) https://doi.org/10.1016/j.eswa.2023.123042  
 Expert Systems With Applications  
