@@ -1,15 +1,15 @@
 # a Repo for my (or my team's) work
 
-许兴时, Xingshi Xu (Hings Hsu)  [My ORCID](https://orcid.org/0000-0002-6687-6975)   
+### 许兴时, Xingshi Xu (Hings Hsu)  [My ORCID](https://orcid.org/0000-0002-6687-6975)   
   
 **Xingshi Xu** received the B.S. degree in electronics and information engineering from NWAFU, Xianyang, China, in 2022. He is currently pursuing the Ph.D. degree with the School of Electrification and Automation, NWAFU, Xianyang, China. His current research interests include biometrics (i.e.cattle recognition) and image enhancing (i.e. image restoration).   
 He is a reviewer of Expert Systems With Applications (EWSA)，Engineering applications of artificial intelligence (EAAI), Biosystems engineering (BE) and other journals.   
   
-**许兴时**在2022年西北农林科技大学机械与电子工程学院获得学士学位，同年免试攻读硕士学位。他目前在西北农林科技大学攻读博士学位(硕博连读)。期间获**国家奖学金**并受**人民日报**报导。2024年在[国家生猪技术创新中心](http://www.nctip.cn/)大数据所短期实习。他的研究领域涉及智慧养殖领域的细粒度分类、图像增强等。  
+**许兴时**在2022年西北农林科技大学机械与电子工程学院获得学士学位，同年免试攻读硕士学位。他目前在西北农林科技大学攻读博士学位(硕博连读)。期间获**国家奖学金**并受[**人民日报**](http://edu.people.com.cn/n1/2024/0505/c1006-40228972.html)报导。2024年6-8月在[**国家生猪技术创新中心**](http://www.nctip.cn/)大数据所实习。他的研究领域涉及智慧养殖领域的细粒度分类、图像增强等。  
 他是以下期刊的审稿人：Expert Systems With Applications (_**EWSA**_)，Engineering applications of artificial intelligence (_**EAAI**_), Biosystems engineering (_**BE**_),  Computers & electrical engineering, Information processing in agriculture（_**INPA**_） 
 
 ----------------------------------------
-My Supervisor: Prof [Huaibo Song](https://cmee.nwsuaf.edu.cn/szdw/gjzcry/318457.htm)宋怀波教授   
+My Supervisor (导师): Prof [Huaibo Song](https://cmee.nwsuaf.edu.cn/szdw/gjzcry/318457.htm)宋怀波教授   
   
 Other supervisor 项目相关的其他老师:   
 Prof [Diyi Chen](https://sjxy.nwsuaf.edu.cn/szdwB/gjzcB/16793B.htm) 陈帝伊 教授 优青  
@@ -87,7 +87,7 @@ _中科院一区TOP, IF=7.2_
 
 
 ## 🧩体尺测量
-#####  &#x2714; Fusion of CREStereo and MobileViT-Pose for rapid measurement of cattle body size  
+#####  &#x2714; Fusion of CREStereo and MobileViT-Pose for rapid measurement of cattle body size  🆕    
 _Author_:HongxingDeng, Guangyuan Yang, ***Xingshi Xu***, Zhixin Hua, Jiahui Liu, Huaibo Song  
 [链接](https://doi.org/10.1016/j.compag.2025.110103) https://doi.org/10.1016/j.compag.2025.110103  
 Computers and Electronics in Agriculture  
