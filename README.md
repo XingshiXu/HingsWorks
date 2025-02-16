@@ -185,7 +185,7 @@ _中科院一区TOP,  IF=7.5, CCF-C_
 
   
   
-If you find our work useful in your research, please kindly cite. Welcome to star this repo and follow our new works!
+Hi, there! If you find our work useful in your research, please kindly cite. Welcome to star this repo and follow our new works!
 感谢审稿人、编辑、潜在读者的支持与帮助，祝您天天开心、心想事成。    
 
 
