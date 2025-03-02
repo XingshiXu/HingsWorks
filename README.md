@@ -69,14 +69,13 @@ _Author_:***Xingshi Xu***, Yunfei Wang, Guangyuan Yang, Zhixin Hua, Zheng Wang, 
 [链接](https://doi.org/10.1016/j.inpa.2024.04.001) https://doi.org/10.1016/j.inpa.2024.04.001  
 Information Processing in Agriculture   
 _Q1, IF=7.6_  
-
-
+  
 #####  &#x2714; Fusion of RetinaFace and improved FaceNet for individual cow identification in natural scenes  
 _Author_:Lingling Yang, ***Xingshi Xu***, Jizheng Zhao, Huaibo Song  
 [链接](http://dx.doi.org/10.1016/j.inpa.2023.09.001) http://dx.doi.org/10.1016/j.inpa.2023.09.001  
 Information Processing in Agriculture   
 _Q1, IF=7.6_  
-
+  
 #####  &#x2714; ![](https://img.shields.io/badge/FirstAuthor-XuXingshi-orange.svg) Nighttime cattle face recognition based on cross-modal shared feature learning
 _Author_: ***Xingshi Xu*** , Hongxing Deng, Yunfei Wang, Huaibo Song  
 [链接](https://dx.doi.org/10.7671/j.issn.1001-411X.202403020) https://dx.doi.org/10.7671/j.issn.1001-411X.202403020
@@ -88,40 +87,38 @@ _Author_:Yunfei Wang, ***Xingshi Xu***, Shujin Zhang, Yuchen Wen, Liuru Pu, Yong
 [链接](https://doi.org/10.1016/j.asoc.2024.112340) https://doi.org/10.1016/j.asoc.2024.112340  
 Applied Soft Computing   
 _中科院一区TOP, IF=7.2_   
-
-
-
+  
 ## 🧩体尺测量
 #####  &#x2714; Fusion of CREStereo and MobileViT-Pose for rapid measurement of cattle body size  🆕    
 _Author_:HongxingDeng, Guangyuan Yang, ***Xingshi Xu***, Zhixin Hua, Jiahui Liu, Huaibo Song  
 [链接](https://doi.org/10.1016/j.compag.2025.110103) https://doi.org/10.1016/j.compag.2025.110103  
 Computers and Electronics in Agriculture  
 _中科院一区TOP_  
-
+  
 #####  &#x2714; Automated measurement of beef cattle body size via key point detection and monocular depth estimation  
 _Author_:Guangyuan Yang, ***Xingshi Xu***, Lei Song, Qianru Zhang, Yuanchao Duan, Huaibo Song  
 [链接](http://dx.doi.org/10.1016/j.compag.2022.107218) http://dx.doi.org/10.1016/j.compag.2022.107218  
 Computers and Electronics in Agriculture   
 _中科院一区TOP_  
-
+  
 #####  &#x2714; Automated measurement of dairy cows body size via 3D point cloud data analysis  
 _Author_:Rong Li, Yuchen Wen, Shujin Zhang, ***Xingshi Xu***， Baoling M, Huaibo Song  
 [链接](https://doi.org/10.1016/j.eswa.2023.123042) https://doi.org/10.1016/j.eswa.2023.123042  
 Expert Systems With Applications  
 _中科院一区TOP_   
-
+  
 #####  &#x2714; Extracting cow point clouds from multi-view RGB images with an improved YOLACT++ instance segmentation
 _Author_:Guangyuan Yang, Rong Li, Yuchen Wen, Shujin Zhang, ***Xingshi Xu***， Huaibo Song  
 [链接](https://doi.org/10.1016/j.eswa.2023.120730) https://doi.org/10.1016/j.eswa.2023.120730  
 Expert Systems with Applications  
 _中科院一区TOP_  
-
+  
 #####  &#x2714; Dairy cow body size measurement method based on binocular stereo matching and improved YOLOv8n-Pose keypoint detection
 _Author_:Hongxing Deng, ***Xingshi Xu***, Yunfei Wang, Shujin Zhang, Huaibo Song  
 [链接](10.7671/j.issn.1001-411X.202404001) 10.7671/j.issn.1001-411X.202404001  
 Journal of South China Agricultural University  
 _会议投稿，入选会议“优秀论文”_  
-
+  
 ## 🧩部位分割
 ####  &#x2714; Segmentation Model of Cow Body Parts Based on YOLO v8n-seg-FCA-BiFPN  
 _Author_:Shujin Zhang, ***Xingshi Xu***， Hongxing Deng, Yunchen Wen, Huaibo Song  
@@ -131,6 +128,13 @@ _EI，中国科协农林领域高质量科技期刊分级目录T1级期刊_
 
 
 ## 🧩动作与行为
+#####  &#x2714;  Detection and tracking of oestrus dairy cows based on improved YOLOv8n and TransT models  🆕  
+_Author_:Zheng Wang, Hongxing Deng, Shujin Zhang,  **Xingshi Xu**， Yuchen Wen, Huaibo Song  
+[链接](https://doi.org/10.1016/j.biosystemseng.2025.02.005) https://doi.org/10.1016/j.biosystemseng.2025.02.005
+Biosystems Engineering  
+_中科院一区TOP_  
+
+
 #####  &#x2714; An effective PoseC3D model for typical action recognition of dairy cows based on skeleton features
 _Author_:Zhixin Hua, Zheng Wang, ***Xingshi Xu***， Xiangfeng Kong, Huaibo Song  
 [链接](http://dx.doi.org/10.1016/j.compag.2023.108152) http://dx.doi.org/10.1016/j.compag.2023.108152  
