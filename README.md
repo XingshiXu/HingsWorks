@@ -3,7 +3,7 @@
 ### 许兴时, Xingshi Xu (Hings Hsu)  [My ORCID](https://orcid.org/0000-0002-6687-6975)   
   
 **Xingshi Xu** received the B.S. degree in electronics and information engineering from NWAFU, Xianyang, China, in 2022. He is currently pursuing the Ph.D. degree with the School of Electrification and Automation, NWAFU, Xianyang, China. His current research interests include biometrics (i.e.cattle recognition) and image enhancing (i.e. image restoration).   
-He is a reviewer of Expert Systems With Applications (EWSA)，Engineering applications of artificial intelligence (EAAI), Biosystems engineering (BE) and other journals.   
+He is a reviewer of Expert Systems With Applications (EWSA)，Engineering applications of artificial intelligence (EAAI), Computers and Electronics in Agriculture (COMPAG), Biosystems engineering (BE) and other journals.   
   
 **许兴时**在2022年西北农林科技大学机械与电子工程学院获得学士学位，同年免试攻读硕士学位。他目前在西北农林科技大学攻读博士学位(硕博连读)。期间获**国家奖学金** (并入选**[**人民日报**](http://edu.people.com.cn/n1/2024/0505/c1006-40228972.html)国家奖学金优秀代表名录**，该名录每年在4.5万获国奖的研究生中遴选100名)、[**陕西省教育厅**](http://jyt.shaanxi.gov.cn/news/gsgg/202205/24/20589.html)优秀学生干部（从陕西省该届41.5万毕业生中遴选387人）。2024年6-8月在[**国家生猪技术创新中心**](http://www.nctip.cn/)大数据所实习。他的研究领域涉及智慧养殖领域的细粒度分类、图像增强等。  
 他是以下期刊的审稿人：   
@@ -27,14 +27,13 @@ Mainly Contributors:
 
 | Name           | Instru      | Job   |
 | ------------ | ------------ | -------------- |
-| Guangyuan Yang| NWAFU & Adelaide U  | Ph.D. candidate (Now in Adelaide U) |
+| Guangyuan Yang| NWAFU & Adelaide U  | Ph.D.  |
 | Yunfei Wang  | NWAFU        | Ph.D. candidate|
 | Yuying Shang | NWAFU        | Ph.D. candidate|
 | Zheng Wang   | ZJU          | Ph.D. candidate (Now in ZJU)|
 | Zhixin Hua   | ZJU          | Ph.D. candidate (Now in ZJU) |
 | Xingshi Xu   | NWAFU        | Ph.D. candidate |
-| Hongxing Deng| NWAFU        | Ph.D. candidate  |
-| Shujin Zhang | NWAFU        | Master's student  |
+| Hongxing Deng| NWAFU        | Ph.D. candidate |  
 
 
 
