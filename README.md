@@ -2,7 +2,7 @@
 
 ### 许兴时, Xingshi Xu (Hings Hsu)  [My ORCID](https://orcid.org/0000-0002-6687-6975)   
   
-**Xingshi Xu** received the B.S. degree in electronics and information engineering from NWAFU, Xianyang, China, in 2022. He is currently pursuing the Ph.D. degree with the School of Electrification and Automation, NWAFU, Xianyang, China. His current research interests include biometrics (i.e.cattle recognition) and image enhancing (i.e. image restoration).   
+**Xingshi Xu** received the B.S. degree in electronics and information engineering from NWAFU, Xianyang, China, in 2022. He is currently pursuing the Ph.D. degree at [NWAFU](https://www.nwafu.edu.cn/) & [KU LEUVEN](https://www.kuleuven.be/english/kuleuven/). His current research interests include biometrics (i.e.cattle recognition) and image enhancing (i.e. image restoration).   
 He is a reviewer of Expert Systems With Applications (EWSA)，Engineering applications of artificial intelligence (EAAI), Computers and Electronics in Agriculture (COMPAG), Biosystems engineering (BE), Applied Soft Computing (ASOC), Neurocomputing (NEUCOM) and other journals.   
   
 **许兴时**在2022年西北农林科技大学机械与电子工程学院获得学士学位，同年免试攻读硕士学位。他目前在西北农林科技大学攻读博士学位(硕博连读)。期间获**国家奖学金** (并入选**[**人民日报**](http://edu.people.com.cn/n1/2024/0505/c1006-40228972.html)国家奖学金优秀代表名录**，该名录每年在4.5万获国奖的研究生中遴选100名)、[**陕西省教育厅**](http://jyt.shaanxi.gov.cn/news/gsgg/202205/24/20589.html)优秀学生干部（从陕西省该届41.5万毕业生中遴选387人）。2024年6-8月在[**国家生猪技术创新中心**](http://www.nctip.cn/)大数据所实习。他将在CSC的资助下于2025年10月在[**鲁汶大学**](https://www.kuleuven.be/english/kuleuven/)开展研究。他的研究领域涉及智慧养殖领域的细粒度分类、图像增强等。  
@@ -17,8 +17,8 @@ He is a reviewer of Expert Systems With Applications (EWSA)，Engineering applic
   Information Processing in Agriculture（_**INPA**_）   
 
 ----------------------------------------
-My Supervisor (导师): [Huaibo Song](https://cmee.nwsuaf.edu.cn/szdw/gjzcry/318457.htm) 宋怀波
-My CSC Supervisor (联培导师):  [Tomás Norton, FIAgrE, FRSB](https://www.kuleuven.be/wieiswie/en/person/00108068) 托马斯·诺顿
+My Supervisor (导师): [Huaibo Song](https://cmee.nwsuaf.edu.cn/szdw/gjzcry/318457.htm) 宋怀波  
+My CSC Supervisor (联培导师):  [Tomás Norton, FIAgrE, FRSB](https://www.kuleuven.be/wieiswie/en/person/00108068) 托马斯·诺顿  
   
 Other supervisor 项目相关的其他老师:   
 | [Diyi Chen](https://sjxy.nwsuaf.edu.cn/szdwB/gjzcB/16793B.htm) | 陈帝伊|
