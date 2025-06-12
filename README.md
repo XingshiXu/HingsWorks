@@ -132,6 +132,12 @@ _EI，中国科协农林领域高质量科技期刊分级目录T1级期刊_
 
 
 ## 🧩动作与行为
+#####  &#x2714; ![](https://img.shields.io/badge/FirstAuthor-XuXingshi-orange.svg) Multi-camera multi-cow tracking under non-overhead views 🆕  
+_Author_:***Xingshi Xu***, Hongxing Deng, Yuying Shang, Yunfei Wang, Shujin Zhang, Huaibo Song  
+[链接](https://doi.org/10.1016/j.eswa.2025.128519) https://doi.org/10.1016/j.eswa.2025.128519
+Expert Systems with Applications  
+_中科院一区TOP, IF=7.5_ 
+
 #####  &#x2714;  Detection and tracking of oestrus dairy cows based on improved YOLOv8n and TransT models  🆕  
 _Author_:Zheng Wang, Hongxing Deng, Shujin Zhang,  **Xingshi Xu**， Yuchen Wen, Huaibo Song  
 [链接](https://doi.org/10.1016/j.biosystemseng.2025.02.005) https://doi.org/10.1016/j.biosystemseng.2025.02.005
